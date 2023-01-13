@@ -54,7 +54,7 @@ itCompanies[5] = "Oracle";
 itCompanies[6] = "Amazon";
 // Slice out the middle IT company or companies from the array
 middleIndex = Math.floor(itCompanies.length/2)
-const middleItem = itCompanies.slice(middleIndex,middleIndex+1)
+// const middleItem = itCompanies.slice(middleIndex,middleIndex+1)
 // console.log(middleItem)
 
 // Remove the first IT company from the array
